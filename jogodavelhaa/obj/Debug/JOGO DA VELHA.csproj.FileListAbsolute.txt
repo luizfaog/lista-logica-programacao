@@ -1,0 +1,7 @@
+C:\Users\Luis Felipe\Desktop\PROGRAMAÇÃO DE COMPUTADORES\jogo da velha\JOGO DA VELHA\JOGO DA VELHA\bin\Debug\JOGO DA VELHA.exe.config
+C:\Users\Luis Felipe\Desktop\PROGRAMAÇÃO DE COMPUTADORES\jogo da velha\JOGO DA VELHA\JOGO DA VELHA\bin\Debug\JOGO DA VELHA.exe
+C:\Users\Luis Felipe\Desktop\PROGRAMAÇÃO DE COMPUTADORES\jogo da velha\JOGO DA VELHA\JOGO DA VELHA\bin\Debug\JOGO DA VELHA.pdb
+C:\Users\Luis Felipe\Desktop\PROGRAMAÇÃO DE COMPUTADORES\jogo da velha\JOGO DA VELHA\JOGO DA VELHA\obj\Debug\JOGO DA VELHA.csproj.AssemblyReference.cache
+C:\Users\Luis Felipe\Desktop\PROGRAMAÇÃO DE COMPUTADORES\jogo da velha\JOGO DA VELHA\JOGO DA VELHA\obj\Debug\JOGO DA VELHA.csproj.CoreCompileInputs.cache
+C:\Users\Luis Felipe\Desktop\PROGRAMAÇÃO DE COMPUTADORES\jogo da velha\JOGO DA VELHA\JOGO DA VELHA\obj\Debug\JOGO DA VELHA.exe
+C:\Users\Luis Felipe\Desktop\PROGRAMAÇÃO DE COMPUTADORES\jogo da velha\JOGO DA VELHA\JOGO DA VELHA\obj\Debug\JOGO DA VELHA.pdb
