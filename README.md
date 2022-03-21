@@ -1,2 +1,2 @@
 # projetosPC
-Projetos realizados em linguagem C# referentes a matéria programação de computadores pela Faculdade Cotemig.
+Projetos referentes a lõgica de programação (Portugol), da matéria programação de computadores da Faculdade COTEMIG.
